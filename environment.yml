@@ -1,0 +1,5 @@
+name: your_env_name
+channels: !!python/tuple
+- defaults
+prefix: /Users/chench/anaconda/envs/your_env_name
+
